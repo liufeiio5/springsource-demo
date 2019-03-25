@@ -1,5 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Java template
+
 # Compiled class file
 *.class
 
@@ -13,8 +12,10 @@
 .mtj.tmp/
 
 # Package Files #
-#.jar
-*.wargi
+
+*.jar
+*.war
+
 *.nar
 *.ear
 *.zip
@@ -23,10 +24,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
 .classpath
 .project
 build
 .idea
 .settings
+
 
 
